@@ -29,8 +29,8 @@ My name is Brandon Beck and I am from Hillsborough, New Jersey. I am currently t
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://https://th.bing.com/th/id/R.5e04fd779e7607a47d0bad14976caa90?rik=MYieavaZpaXrMw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f02%2fNew-Instagram-logo.jpg&ehk=kTNHOU7RNhSBC8VTl4FPXOmyjXgyJlrNtPiZ9qk03fA%3d&risl=&pid=ImgRaw&r=0" alt="instagram logo" width="16">](https://www.instagram.com/delta231_/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) |
-|---|---|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="github logo" width="34">](https://github.com/Delta456) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) |
+|---|---|
 
 ---
 ⭐️ From [brandonbeck11](https://github.com/brandonbeck11)
