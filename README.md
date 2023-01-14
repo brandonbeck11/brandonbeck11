@@ -26,7 +26,7 @@ My name is Brandon Beck and I am from Hillsborough, New Jersey. I am currently t
 
 You can find and get touch with me on these accounts!
 
-| <img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="instagram logo" width="24"> (https://www.instagram.com/brandonbeck11/) | [<img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="github logo" width="34">](https://github.com/brandonbeck11) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="twitter logo" width="34">](https://twitter.com/BrandonBeck2020) |
+| [<img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="instagram logo" width="24">] (https://www.instagram.com/brandonbeck11/) | [<img src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="github logo" width="34">](https://github.com/brandonbeck11) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="twitter logo" width="34">](https://twitter.com/BrandonBeck2020) |
 |---|---|---|
 
 ---
