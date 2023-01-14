@@ -26,7 +26,7 @@ My name is Brandon Beck and I am from Hillsborough, New Jersey. I am currently t
 
 - Familiar with:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| [
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| [<img src="" alt="linux logo" width="30">] | [<img src=" alt="terminal logo" width="30">] | [<img src="" alt="ubuntu logo" width="30">] |
 |---|---|---|---|
 
 - Now learning:
