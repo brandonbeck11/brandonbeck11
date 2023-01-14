@@ -30,4 +30,3 @@ You can find and get touch with me on these accounts!
 |---|---|---|---|
 
 ---
-⭐️ From [brandonbeck11](https://github.com/brandonbeck11)
