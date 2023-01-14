@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-My name is Brandon Beck and I am from Hillsborough, New Jersey. I am currently taking on a Bachelor's of Science degree in Computer Science at The College of Charleston. I am looking into obtaining my graduates certificate in Cybersecurity.
+My name is Brandon Beck and I am from Hillsborough, New Jersey. I am currently taking on a Bachelor's of Science degree in Computer Science at The College of Charleston. I am looking into obtaining my graduates certificate in Cybersecurity and forwarding my career in this field as well.
 
 ### Programming Languages 🌐
 
@@ -21,9 +21,6 @@ My name is Brandon Beck and I am from Hillsborough, New Jersey. I am currently t
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)| <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux logo" width="30"> | <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="terminal logo" width="30"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu logo" width="30"> |
 |---|---|---|---|---|
-
-- Now learning:
-
 
 ### Other Accounts 📫
 
