@@ -1,10 +1,3 @@
----
-title: Brandonbeck11
-date:
-spoiler: Tabular Realtime Readme Template
-categories: ["tabular", "all-profile"]
-githubUsername: 'brandonbeck11'
----
 
 ### Hi there 👋
 
