@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-My name is Brandon Beck and I am from Hillsborough, New Jersey. I am currently taking on a Bachelor's of Science degree in Computer Science at The College of Charleston. I am looking into forwarding my career in this cyber security.
+My name is Brandon Beck and I am from Hillsborough, New Jersey. I am currently taking on a Bachelor's of Science degree in Computer Science at The College of Charleston. I am looking into forwarding my career in Cyber Security.
 
 ### Programming Languages 🌐
 
